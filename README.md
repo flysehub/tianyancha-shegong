@@ -25,7 +25,7 @@
 
 老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具，不过有人前段时间反馈说因导入数据机器人没有反应。暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
 
-<a href="https://tianyancha.cyou/show/1.html" target="_blank"><img src="imgs/imgi_4_1.jpeg" alt="谁和他/她开房了？" border="0" style="width:380px;"></a>
+<a href="https://tianyancha.cyou/show/1.html" target="_blank"><img src="img/imgi_4_1.jpeg" alt="谁和他/她开房了？" border="0" style="width:380px;"></a>
 
 社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://tianyancha.cyou/show/18.html" target="_blank">暗精灵社工库</a>。
 
@@ -41,7 +41,7 @@
 
 繁花社工库支持身份证补齐的社工库机器人，查询免费，查询结果打码，需要积分解锁结果，支持签到和分享获取积分。
 
-<a href="https://www.mfsgk.com" target="_blank"><img src="imgs/imgi_3_57.jpeg" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com" target="_blank"><img src="img/imgi_3_57.jpeg" alt="2025最新查档社工库" border="0" style="width:380px;"></a>
 
 社工库账号：[繁花社工库](https://tianyancha.cyou/show/)。
 
@@ -126,7 +126,7 @@ Hope社工库支持微信绑定、QQ绑定等数据查询，但感觉数据比�
 
 提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
-<a href="https://tianyancha.cyou/" target="_blank"><img src="imgs/imgi_6_酒店.jpeg" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
+<a href="https://tianyancha.cyou/" target="_blank"><img src="img/imgi_6_酒店.jpeg" alt="2025最新社工库-小孩哥社工库" border="0" style="width:380px;"></a>
 
 社工库账号：<a href="https://t.me/itheikeji_xhgsgk_bot" target="_blank">@itheikeji_xhgsgk_bot</a>，使用教程：<a href="https://tianyancha.cyou/show/7.html" target="_blank">小孩哥社工库机器人</a>。
 
