@@ -1,6 +1,6 @@
-# 2025年最新Telegram社工库合集与导航
+# 2026年最新Telegram社工库合集与导航
 
-整理分享2025年最新免费Telegram社工库机器人、开盒社工库、海外社工库查询工具与下载资源。当前网络上流传着众多社工库，如暗精灵社工库、黑盒社工库、小孩哥社工库等，这些Telegram社工库机器人普遍具备庞大的个人信息查询功能（俗称开盒社工库）。
+整理分享2026年最新免费Telegram社工库机器人、开盒社工库、海外社工库查询工具与下载资源。当前网络上流传着众多社工库，如暗精灵社工库、黑盒社工库、小孩哥社工库等，这些Telegram社工库机器人普遍具备庞大的个人信息查询功能（俗称开盒社工库）。
 
 社工库所收录的信息泄露数据，基本涵盖自2012年网络实名制以来的各类数据，如户籍、身份证、微信/QQ绑定、姓名模糊查询（猎魔查）、快递/外卖地址、开房记录、社保数据等，部分社工库还提供免费查询。数据泄露的源头可能是购物平台、社交软件、政府机构、疫情期间登记等，数据一旦外泄，便难以追回。唯一能变更的，可能只是密码而已。
 如果想要人工实时查询，可导航到这个社工库： <a href="tianyancha.cyou/" target="_blank">全球社工库-实时人工查询</a>。
@@ -41,7 +41,7 @@
 
 繁花社工库支持身份证补齐的社工库机器人，查询免费，查询结果打码，需要积分解锁结果，支持签到和分享获取积分。
 
-<a href="https://www.mfsgk.com" target="_blank"><img src="img/imgi_3_57.jpeg" alt="2025最新查档社工库" border="0" style="width:960px;"></a>
+<a href="https://www.mfsgk.com" target="_blank"><img src="img/imgi_3_57.jpeg" alt="2026最新查档社工库" border="0" style="width:960px;"></a>
 
 社工库账号：[繁花社工库](https://tianyancha.cyou/show/)。
 
@@ -126,7 +126,7 @@ Hope社工库支持微信绑定、QQ绑定等数据查询，但感觉数据比�
 
 提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
-<a href="https://tianyancha.cyou/" target="_blank"><img src="img/imgi_6_酒店.jpeg" alt="2025最新社工库-小孩哥社工库" border="0" style="width:360px;"></a>
+<a href="https://tianyancha.cyou/" target="_blank"><img src="img/imgi_6_酒店.jpeg" alt="2026最新社工库-小孩哥社工库" border="0" style="width:360px;"></a>
 
 社工库账号：<a href="https://t.me/itheikeji_xhgsgk_bot" target="_blank">@itheikeji_xhgsgk_bot</a>，使用教程：<a href="https://tianyancha.cyou/show/7.html" target="_blank">小孩哥社工库机器人</a>。
 
@@ -202,10 +202,10 @@ IP地址数据：全球IP地址数据库
 
 * <a href="https://github.com/flysehub/screit" target="_blank" rel="noopener">免费在线社工库、Telegram社工库合集</a>
 * <a href="https://t.me/itheikeji" target="_blank">免费社工库分享频道</a>
-* <a href="https://tianyancha.cyou/show/21.html" target="_blank" >2025最新免费社工库(更新中)</a>
-* <a href="https://tianyancha.cyou/show/4.html" target="_blank">社工库: 2025全网最全Telegram社工库，隐私信息查询</a>
+* <a href="https://tianyancha.cyou/show/21.html" target="_blank" >2026最新免费社工库(更新中)</a>
+* <a href="https://tianyancha.cyou/show/4.html" target="_blank">社工库: 2026全网最全Telegram社工库，隐私信息查询</a>
 * <a href="https://tianyancha.cyou/show/2.html" target="_blank" >Telegram使用详细教程</a>
-* <a href="https://tianyancha.cyou/show/19.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>
+* <a href="https://tianyancha.cyou/show/19.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>
 
 
 ---
